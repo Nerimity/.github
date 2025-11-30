@@ -5,7 +5,7 @@
 **Nerimity** is an open-source, community-first chat platform built to deliver an elegant, powerful, and feature-rich experience.  
 
 <p align="center">
-  <img src="/screenshot/2025-11-30.png" alt="Screenshot of Nerimity" style="max-width: 100%; border-radius: 8px;" />
+  <img src="/screenshot/2025-11-30.png" alt="Screenshot of Nerimity" width="80%" style="border-radius: 6px;" />
 </p>
 
 ---
