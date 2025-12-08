@@ -31,6 +31,7 @@ Below is an overview of Nerimity's core repositories:
 | [Desktop](https://github.com/Nerimity/nerimity-desktop) | Electron-based desktop client. | [@Superkitten](https://github.com/SupertigerDev) |
 | [CDN](https://github.com/Nerimity/nerimity-cdn-ts) | Nerimity's CDN service. | [@Superkitten](https://github.com/SupertigerDev) |
 | [Nevula](https://github.com/Nerimity/nevula) | Nerimity's Markup Library. | [@Superkitten](https://github.com/SupertigerDev) |
+| [Themes](https://github.com/Nerimity/themes) |A collection of community themes for Nerimity. | [@Asraye](https://github.com/Asraye) |
 | [Nerimity.js](https://github.com/Nerimity/nerimity.js) | Official JavaScript library for interacting with the API. | [@Superkitten](https://github.com/SupertigerDev) |
 | [Nerimity RPC](https://github.com/Nerimity/nerimity-rpc-extension) | Rich Presence extension | [@Superkitten](https://github.com/SupertigerDev) |
 | [Nerimity](https://github.com/Nerimity) | Organization overview. | N/A |
